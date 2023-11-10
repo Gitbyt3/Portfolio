@@ -2,8 +2,12 @@
 > Technical proficiency: Python, SQL, Excel/Google Sheets, and Salesforce
 
 ## Project 1: Publication Click-Rate Analysis for a Think Tank
-**Objective:** Understand the state of the Think Tank's publication library, confirm their downloads were decreasing, and find out why
-- Data was taken from an internal dashboard tracking publication performance and a publication database containing details of all publications to date
-- Extensive data wrangling was conducted as the internal dashboard had many irrelevant or ill-formatted columns
-- Click data was split between two languages and between 'Views' and 'Downloads'
-- 
+**Objective:** Understand the state of the Think Tank's publication library, confirm their aggregate downloads/views were decreasing, and find out why
+- Data was taken from an internal dashboard tracking individual publication performance and a database containing characteristics of all publications to date
+- Extensive data wrangling was conducted as the raw internal dashboard was near unusable in its original state
+- The analysis uncovered multiple variables potentially responsible for the downloads/views. These were:\
+  &nbsp;&nbsp;&nbsp;&nbsp; 1. Frequency of publication releases\
+  &nbsp;&nbsp;&nbsp;&nbsp; 2. Publication type\
+  &nbsp;&nbsp;&nbsp;&nbsp; 3. Publication topic
+- (**WIP**) Using the Google Trends API to investigate if publication keyword popularity impacts the downloads/views
+- Below are some sample exploratory visualisations generated using the Seaborn package
