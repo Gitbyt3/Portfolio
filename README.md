@@ -1,8 +1,8 @@
-# Data Analyst
+# Data Analyst Portfolio
 > Technical proficiency: Python, SQL, Excel/Google Sheets, and Salesforce
 
 ## Project 1: Publication Click-Rate Analysis for a Think Tank
-**Objective:** Confirm their aggregate downloads/views were decreasing and find out why
+**Objective:** Investigate trends in the clicks and identify their causes
 - Data was sourced from two databases, one containing click data and the other containing publication characteristics
 - Extensive data wrangling was conducted as the raw click data was near unusable in its original state
 - The analysis uncovered multiple variables potentially responsible for the downloads/views. These were:\
