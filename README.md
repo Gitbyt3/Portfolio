@@ -3,9 +3,9 @@
 
 ## Project 1: Publication Click-Rate Analysis for a Think Tank
 **Objective:** Investigate trends in publication downloads & views and identify their causes
-- Data was sourced from two databases, one containing click data and the other containing publication characteristics
+- Data was sourced from two internal databases, one containing click data and the other containing publication characteristics
 - Extensive data wrangling was conducted as the raw click data was near unusable in its original state
-- The analysis uncovered multiple variables potentially responsible for the downloads/views. These were:\
+- The regression analysis uncovered multiple variables potentially responsible for the downloads/views. These were:\
   &nbsp;&nbsp;&nbsp;&nbsp; 1. Frequency of publication releases\
   &nbsp;&nbsp;&nbsp;&nbsp; 2. Publication type\
   &nbsp;&nbsp;&nbsp;&nbsp; 3. Publication topic
