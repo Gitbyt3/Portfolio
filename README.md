@@ -28,7 +28,8 @@
 - First part of the project uncovered that ESG and CSR media interest was roughly equivalent from 2021 to 2023
 - Second part of the project centered on what sorts of company sustainability projects Indonesian media reported on
 - The scope of the project was not large enough to conduct an in depth analysis of the ESG rating's impact on financial performance
-<p float="left">
-  <img src="https://github.com/Gitbyt3/Portfolio/assets/142446962/50cf47f6-2a68-4f6a-88af-fa9b644ee532" width="49%" />
-  <img src="https://github.com/Gitbyt3/Portfolio/assets/142446962/245406b7-a74a-4377-9e01-96083506821c" width="49%" />
+
+<p align="center">
+  <img src="https://github.com/Gitbyt3/Portfolio/assets/142446962/50cf47f6-2a68-4f6a-88af-fa9b644ee532" width="500">
+  <img src="https://github.com/Gitbyt3/Portfolio/assets/142446962/245406b7-a74a-4377-9e01-96083506821c" width="500">
 </p>
