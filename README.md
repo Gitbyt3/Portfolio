@@ -21,7 +21,7 @@
 - The code is run every month to add the previous month's data to the Google Sheets dashboard
 - The Google Sheets, Google Drive, and Google Analytics APIs were setup using Google Cloud
 
-## Project 3: [State of ESG in Indonesia Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
+## Project 3: [State of ESG in Indonesia - Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
 **Objective:** Understand the current state of Indonesian sustainability research projects and identify relationships between ESG rating and financial performance
 - Data was mainly gathered from Yahoo Finance and Newswhip
 - Bulk of the analysis concentrated on news article headline analysis and the associated keywords generated from Newswhip
