@@ -22,12 +22,14 @@
 - The Google Sheets, Google Drive, and Google Analytics APIs were setup using Google Cloud
 
 ## Project 3: [State of ESG in Indonesia - Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
-**Objective:** Understand the current state of Indonesian sustainability research projects and identify relationships between ESG rating and financial performance
+**Objective:** Understand the current state of Indonesian sustainability research projects through media reporting
 - Data was mainly gathered from Yahoo Finance and Newswhip
 - Bulk of the analysis concentrated on news article headline analysis and the associated keywords generated from Newswhip
-- First part of the project uncovered that ESG and CSR media interest was roughly equivalent from 2021 to 2023
+- First part of the project uncovered how ESG and CSR media interest was roughly equivalent from 2021 to 2023
 - Second part of the project centered on what sorts of company sustainability projects Indonesian media reported on
-- The scope of the project was not large enough to conduct an in depth analysis of the ESG rating's impact on financial performance
+- Future research:
+1. Predicting ESG ratings based on financial performance
+2. Analysing the impact of ESG ratings on financial performance
 
 <p align="center">
   <img src="https://github.com/Gitbyt3/Portfolio/assets/142446962/50cf47f6-2a68-4f6a-88af-fa9b644ee532" width="500">
