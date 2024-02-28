@@ -1,5 +1,12 @@
 # Data Analyst Portfolio
 
+## Project 1: [Scrappy - A Job Post Scraper](https://github.com/Gitbyt3/Job-Scraper-Scrappy)
+**Objective:** Centralise and automate newly posted jobs in a single Google Sheet using webscraping
+- Job boards used were LinkedIn, Glassdoor, and Indeed
+- This scraper used Python's Selenium library to automatically crawl job posting every single day and automatically upload them to my Google Sheet
+- The queries are customisable depending on location, experience level, and job title
+- With this scraper, I can spend more time on the job postings that matter to me and less time looking for them
+
 ## Project 1: [Publication Click-Rate Analysis for a Think Tank](https://github.com/Gitbyt3/Click-Rate-Analysis)
 **Objective:** Investigate trends in publication downloads & views and identify their causes
 - Data was sourced from two internal databases, one containing click data and the other containing publication characteristics
