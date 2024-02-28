@@ -20,7 +20,7 @@
   <img width="400" alt="Screenshot 2023-11-11 170247" src="https://github.com/Gitbyt3/Portfolio/assets/142446962/b5a9a662-97d0-4e96-9798-ebf980afe4a7">
 </p>
 
-## Project 4: [State of ESG in Indonesia - Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
+## Project 3: [State of ESG in Indonesia - Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
 **Objective:** Understand the current state of Indonesian sustainability research projects through media reporting
 - Data was mainly gathered from Yahoo Finance and Newswhip
 - Bulk of the analysis concentrated on news article headline analysis and the associated keywords generated from Newswhip
@@ -36,7 +36,7 @@
 </p>
 
 
-## Project 3: [Publication Dashboard Automation for a Think Tank](https://github.com/Gitbyt3/Publication-Dashboard-Automation)
+## Project 4: [Publication Dashboard Automation for a Think Tank](https://github.com/Gitbyt3/Publication-Dashboard-Automation)
 **Objective:** Automate monthly data entry for publication performance
 - Data was compiled from monthly Excel files containing publication downloads & views, Google Analytics, and publication title webscraping
 - Webscraping was needed to pull the released publications from the Think Tank's website and Neliti, a research paper repository, and compare the titles with the current titles on the dashboard
