@@ -3,11 +3,11 @@
 ## Project 1: [Scrappy - A Job Post Scraper](https://github.com/Gitbyt3/Job-Scraper-Scrappy)
 **Objective:** Centralise and automate newly posted jobs in a single Google Sheet using webscraping
 - Job boards used were LinkedIn, Glassdoor, and Indeed
-- This scraper used Python's Selenium library to automatically crawl job posting every single day and automatically upload them to my Google Sheet
+- This scraper used Python's Selenium and BeautifulSoup libraries to automatically crawl job posting every single day and automatically upload them to my Google Sheets
 - The queries are customisable depending on location, experience level, and job title
 - With this scraper, I can spend more time on the job postings that matter to me and less time looking for them
 
-## Project 1: [Publication Click-Rate Analysis for a Think Tank](https://github.com/Gitbyt3/Click-Rate-Analysis)
+## Project 2: [Publication Click-Rate Analysis for a Think Tank](https://github.com/Gitbyt3/Click-Rate-Analysis)
 **Objective:** Investigate trends in publication downloads & views and identify their causes
 - Data was sourced from two internal databases, one containing click data and the other containing publication characteristics
 - Extensive data wrangling was conducted as the raw click data was near unusable in its original state
@@ -21,14 +21,14 @@
 </p>
 
 
-## Project 2: [Publication Dashboard Automation for a Think Tank](https://github.com/Gitbyt3/Publication-Dashboard-Automation)
+## Project 3: [Publication Dashboard Automation for a Think Tank](https://github.com/Gitbyt3/Publication-Dashboard-Automation)
 **Objective:** Automate monthly data entry for publication performance
 - Data was compiled from monthly Excel files containing publication downloads & views, Google Analytics, and publication title webscraping
 - Webscraping was needed to pull the released publications from the Think Tank's website and Neliti, a research paper repository, and compare the titles with the current titles on the dashboard
 - The code is run every month to add the previous month's data to the Google Sheets dashboard
 - The Google Sheets, Google Drive, and Google Analytics APIs were setup using Google Cloud
 
-## Project 3: [State of ESG in Indonesia - Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
+## Project 4: [State of ESG in Indonesia - Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
 **Objective:** Understand the current state of Indonesian sustainability research projects through media reporting
 - Data was mainly gathered from Yahoo Finance and Newswhip
 - Bulk of the analysis concentrated on news article headline analysis and the associated keywords generated from Newswhip
