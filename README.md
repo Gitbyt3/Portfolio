@@ -20,14 +20,6 @@
   <img width="400" alt="Screenshot 2023-11-11 170247" src="https://github.com/Gitbyt3/Portfolio/assets/142446962/b5a9a662-97d0-4e96-9798-ebf980afe4a7">
 </p>
 
-
-## Project 3: [Publication Dashboard Automation for a Think Tank](https://github.com/Gitbyt3/Publication-Dashboard-Automation)
-**Objective:** Automate monthly data entry for publication performance
-- Data was compiled from monthly Excel files containing publication downloads & views, Google Analytics, and publication title webscraping
-- Webscraping was needed to pull the released publications from the Think Tank's website and Neliti, a research paper repository, and compare the titles with the current titles on the dashboard
-- The code is run every month to add the previous month's data to the Google Sheets dashboard
-- The Google Sheets, Google Drive, and Google Analytics APIs were setup using Google Cloud
-
 ## Project 4: [State of ESG in Indonesia - Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
 **Objective:** Understand the current state of Indonesian sustainability research projects through media reporting
 - Data was mainly gathered from Yahoo Finance and Newswhip
@@ -42,3 +34,11 @@
   <img src="https://github.com/Gitbyt3/Portfolio/assets/142446962/50cf47f6-2a68-4f6a-88af-fa9b644ee532" width="500">
   <img src="https://github.com/Gitbyt3/Portfolio/assets/142446962/245406b7-a74a-4377-9e01-96083506821c" width="500">
 </p>
+
+
+## Project 3: [Publication Dashboard Automation for a Think Tank](https://github.com/Gitbyt3/Publication-Dashboard-Automation)
+**Objective:** Automate monthly data entry for publication performance
+- Data was compiled from monthly Excel files containing publication downloads & views, Google Analytics, and publication title webscraping
+- Webscraping was needed to pull the released publications from the Think Tank's website and Neliti, a research paper repository, and compare the titles with the current titles on the dashboard
+- The code is run every month to add the previous month's data to the Google Sheets dashboard
+- The Google Sheets, Google Drive, and Google Analytics APIs were setup using Google Cloud
