@@ -21,7 +21,7 @@
 </p>
 
 ## Project 3: [State of ESG in Indonesia - Research Project](https://github.com/Gitbyt3/ESG-Research-Project)
-**Objective:** Understand the current state of Indonesian sustainability research projects through media reporting
+**Objective:** Understand the current state of Indonesian ESG & CSR initiatives
 - Data was mainly gathered from Yahoo Finance and Newswhip
 - Bulk of the analysis concentrated on news article headline analysis and the associated keywords generated from Newswhip
 - First part of the project uncovered how ESG and CSR media interest was roughly equivalent from 2021 to 2023
